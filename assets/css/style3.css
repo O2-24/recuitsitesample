@@ -1,0 +1,10 @@
+.messages{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    width: 50%;
+    color: #948886;
+}
